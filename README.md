@@ -18,8 +18,7 @@ Frontier is committed to sustainability in our technology. That means our equipm
 <br><br>The best design will be inexpensive, self-powered (or not powered at all!), and have few moving parts. Your design can be built with real materials or in the CAD software of your choosing.
 <br><br>You can find more details about this challenge [here](./Materials_Challenge/)
 # Contacts
-For any questions about this project, please reach out to milad.mostavi@ftr.com or yetik.serbest@ftr.com or david.curran@ftr.com.
-The data can be found in the Data directory.
-Project description can be found in Docs directory.
-The evaluation criteria can be found in Docs directory.
-The data dictionary can be found in Docs directory.
+For any questions about this project, please reach out to 
+- milad.mostavi@ftr.com 
+- yetik.serbest@ftr.com
+- david.curran@ftr.com
