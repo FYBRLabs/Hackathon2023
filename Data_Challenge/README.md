@@ -25,13 +25,13 @@ Network performance metrics are being collected for fiber broadband services. Fr
 Time series of performance measurements for a month are provided as training and test data. Training data and test data do not overlap. Data duration for training data is one month. The data duration of the test data is one month. There are ten thousand customers in the training data. There are ten thousand customers in the test data. Customers in training and test data are not necessarily the same. 
 Service repair requests are happening in the second half of the month. 
 ## Model Evaluation Criteria
-A model is to predict if a customer service needs a service repair in the second half of the month, i.e., 16th or later. If a customer service needs more than one service repair, the label is till 1.
+The goal of your model is to predict if a customer needs a service repair in the second half of the month, i.e., 16th or later. If a customer needs more than one service repair, the label is still 1.
 Each model will be evaluated based on:
 - accuracy
-- comprehensive exploratory data analysis,
-- insights uncovered from the data,
-- innovative approach,
-- inspection of final executed notebook.
+- comprehensive exploratory data analysis
+- insights uncovered from the data
+- innovative approach
+- inspection of final executed notebook
 
 ## Scoring
 For accuracy validation, a csv file as shown below must be emailed to milad.mostavi@ftr.com. The csv file should include all customers in the test data.
