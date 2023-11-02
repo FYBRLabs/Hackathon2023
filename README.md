@@ -1,5 +1,5 @@
 # HackUTD 2023
-Millions of our customer sdepend on the Internet everyday to work, play, and stay connected with friends, family, and the world. At Frontier Communications, we work every day to make sure our service is fast and always on.
+Millions of our customers depend on the Internet everyday to work, play, and stay connected with friends, family, and the world. At Frontier Communications, we work every day to make sure our service is fast and always on.
 # Challenges
 This year, Frontier has **two** challenges available. One data science challenge and one materials challenge.
 ## Prizes
