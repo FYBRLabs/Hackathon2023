@@ -31,11 +31,11 @@ Service repair requests are happening in the second half of the month.
 ## Model Evaluation Criteria
 The goal of your model is to predict if a customer needs a service repair in the second half of the month, i.e., 16th or later. If a customer needs more than one service repair, the label is still 1.
 Each model will be evaluated based on:
-- accuracy
-- comprehensive exploratory data analysis
-- insights uncovered from the data
-- innovative approach
-- inspection of final executed notebook
+- Accuracy
+- Comprehensive exploratory data analysis (EDA)
+- Insights uncovered from the data
+- Innovative approach
+- Inspection of final executed notebook
 
 ## Submission Process 
  
@@ -52,7 +52,7 @@ To submit your solution for this competition, follow these steps:
 - You have two submission options:     
  
 1. **(Recommended)**: Create a pull request (PR) from your fork to this main repository.     
-2. **(Alternative)**: If you prefer not to create a PR, please [email your submission](milad.mostavi@email.com) with a subject like _"Competition Submission - teamName1."_ Your submission will be evaluated according to the competition guidelines. Make sure to submit before the deadline.
+2. **(Alternative)**: If you prefer not to create a PR, please [email your submission](milad.mostavi@ftr.com) with a subject like _"Competition Submission - teamName1."_ Your submission will be evaluated according to the competition guidelines. Make sure to submit before the deadline.
 
 <mark>Note</mark>
 <br>This is a hard problem. If your model is no better than flipping a coin, **_do not get discouraged_**. How you approach the problem, how you analyze the data are also very important and will be considered in the judging as well as the final result.
