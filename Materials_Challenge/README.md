@@ -43,6 +43,6 @@ We also provide CAD files in several formats [here](./Drawings/) if you need the
 - Bend or break fibers or other cables (fibers can't have more than a 60° bend)
 
 ## Judging
-1. The primary goal is to reduce the internal temperature of the enclosure when it is exposed to a light source (such as the sun, a heat lamp, an incandecent bulb, etc.). This will be judged by exposing the enclosure to a heat source for 10 minutes and measuring the internal temperature vs. the ambient temperature.
+1. The primary goal is to reduce the internal temperature of the enclosure when it is exposed to a light source (such as the sun, a heat lamp, an incandecent bulb, etc.). This will be judged by ~exposing the enclosure to a heat source for 10 minutes and measuring the internal temperature vs. the ambient temperature~ using FLIR to visualize the temperature of the box vs. ambient.
 <br><br>Alternately, you may use modeling software to simulate a heat source if you choose to do the challenge virtually.
 1. A secondary goal is to improve the enclosure in **_any other way you can imagine!_**
