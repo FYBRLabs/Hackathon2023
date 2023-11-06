@@ -19,9 +19,3 @@ Frontier is committed to sustainability in our technology. That means our equipm
 <br><br>You can find more details about this challenge [here](./Materials_Challenge/)
 # Contacts
 For any questions about this project, please reach out to 
-- milad.mostavi@ftr.com (Data Science Challenge)
-- yetik.serbest@ftr.com (Data Science Challenge)
-- Erwin.Wardojo@ftr.com (Materials Challenge)
-- Bryan.Pauling@ftr.com (Materials Challenge)
-- john.valdez@ftr.com (anything)
-- david.curran@ftr.com (anything)
